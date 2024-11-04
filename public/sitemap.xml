@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/mat/developers/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mat/</loc>
+    <lastmod>2020-03-01T16:09:45-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mat/download/</loc>
+    <lastmod>2018-04-05T15:50:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mat/documentation/</loc>
+    <lastmod>2018-04-05T15:50:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mat/download/previous/</loc>
+    <lastmod>2018-04-05T15:50:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mat/download/snapshots/</loc>
+    <lastmod>2018-04-05T15:50:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mat/support/</loc>
+    <lastmod>2018-04-05T15:50:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mat/tags/</loc>
+  </url>
+</urlset>

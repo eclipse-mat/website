@@ -1,0 +1,122 @@
+baseurl = "https://eclipse.dev/mat"
+DefaultContentLanguage = "en"
+title = "The Community for Open Innovation and Collaboration"
+theme = "hugo-solstice-theme"
+metaDataFormat = "yaml"
+disableKinds = []
+enableRobotsTXT = true
+pluralizeListTitles = false
+
+[Params]
+  google_tag_manager = "GTM-5WLCZXC"
+  description = "The Eclipse Foundation provides our global community of individuals and organizations with a mature, scalable, and business-friendly environment for open source software collaboration and innovation."
+  seo_title_suffix = " | The Eclipse Foundation"
+  keywords = ["eclipse", "project", "plug-ins", "plugins", "java", "ide", "swt", "refactoring", "free java ide", "tools", "platform", "open source", "development environment", "development", "ide"]
+  news_count = 3
+  gcse = "011805775785170369411:p3ec0igo0qq"
+  gcse_result_url = "https://www.eclipse.org/home/search/"
+  header_wrapper_class = "header_wrapper_class"
+  call_for_action_text = "Download"
+  call_for_action_url = "download"
+  call_for_action_icon = "fa-download"
+  layout_style = "astro"
+  hide_ad = false
+  featured_content_publish_target = "eclipse_org"
+  sidebar_layout = "default"
+# js = ""
+# styles = ""
+# logo = ""
+# favicon = ""
+# share_img = ""
+# logo_width = ""
+# header_left_classes = ""
+# main_menu_wrapper_classes = ""
+# projects_working_group = ""
+# show_events = true
+# table_classes = "table table-bordered"
+# hide_cfa_same_page = true
+# show_collapsible_menu = true
+
+[taxonomies]
+  tag = "tags"
+
+[Author]
+  name = "Eclipse Foundation"
+  website = "https://www.eclipse.org"
+  email = "webdev@eclipse-foundation.org"
+  facebook = "eclipse.org"
+  twitter = "eclipsefdn"
+  youtube = "EclipseFdn"
+  googleplus = "+Eclipse"
+  linkedin = "company/eclipse-foundation/"
+
+[permalinks]
+  news = "/:sections/:year/:month/:day/:slug/"
+
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Documentation"
+    url = "/documentation"
+    weight = 2
+
+[[menu.main]]
+    name = "Support"
+    url = "/support"
+    weight = 3
+
+[[menu.main]]
+    name = "Developers"
+    url = "/developers"
+    weight = 4
+
+[[menu.sidebar]]
+  name = "Memory Analyzer"
+  url = "/"
+  weight = 1
+  identifier = "home"
+
+[[menu.sidebar]]
+  parent ="home"
+  name = "About This Project"
+  url = "https://projects.eclipse.org/projects/tools.mat"
+  weight = 1
+  pre = "<i class=\"fa fa-caret-right fa-fw\"></i>"
+
+[[menu.sidebar]]
+  parent ="home"
+  name = "Gerring Started"
+  url = "https://help.eclipse.org/latest/index.jsp?topic=%2Forg.eclipse.mat.ui.help%2Fgettingstarted%2Fbasictutorial.html"
+  weight = 2
+  pre = "<i class=\"fa fa-caret-right fa-fw\"></i>"
+
+[[menu.sidebar]]
+  parent ="home"
+  name = "Documentation"
+  url = "documentation/"
+  weight = 3
+  pre = "<i class=\"fa fa-caret-right fa-fw\"></i>"
+
+[[menu.sidebar]]
+  parent ="home"
+  name = "Download"
+  url = "download/"
+  weight = 4
+  pre = "<i class=\"fa fa-caret-right fa-fw\"></i>"
+
+[[menu.sidebar]]
+  parent ="home"
+  name = "Get Help"
+  url = "support/"
+  weight = 5
+  pre = "<i class=\"fa fa-caret-right fa-fw\"></i>"
+
+
+
