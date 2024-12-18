@@ -92,7 +92,7 @@ pluralizeListTitles = false
 
 [[menu.sidebar]]
   parent ="home"
-  name = "Gerring Started"
+  name = "Getting Started"
   url = "https://help.eclipse.org/latest/index.jsp?topic=%2Forg.eclipse.mat.ui.help%2Fgettingstarted%2Fbasictutorial.html"
   weight = 2
   pre = "<i class=\"fa fa-caret-right fa-fw\"></i>"
