@@ -1,6 +1,6 @@
 ---
 title: "Memory Analyzer (MAT)"
-date: 2020-03-01T16:09:45-04:00
+date: 2024-12-20T10:00:00+2:00
 #headline: "The Community for Open Innovation and Collaboration"
 #tagline: "The Eclipse Foundation provides our global community of individuals and organizations with a mature, scalable, and business-friendly environment for open source software collaboration and innovation."
 hide_page_title: true
@@ -22,9 +22,11 @@ Use the Memory Analyzer to analyze productive heap dumps with hundreds of millio
 
 ## News
 
-- 8 May 2024, Memory Analyzer moved to Github
-The Memory Analyzer code repository has moved from the Eclipse Git servers to Github - https://github.com/eclipse-mat/mat.
-With this move, the project also switched from using the Eclipse Bugzilla to using Github Issues on the MAT Github project.
-We are really happy about the move, however, it might take some time to update all places pointing to the old repository at Eclipse. Please bear with us while we do the transition and give us feedback if you see places we've missed to update!
-- 6 December 2023, Memory Analyzer version 1.15.0 released
-Memory Analyzer 1.15.0 Release is now available for download. Check the New and Noteworthy page for an overview of new features and fixes, including security fixes. Further details are available in the release record.
+- 20 December 2024, **Memory Analyzer version 1.16.0 released**
+
+    Memory Analyzer 1.16.0 Release is now available for [download]( {{< ref "download/" >}} ). Check the [New and Noteworthy](1.16.0/noteworthy.html) page for an overview of new features and fixes. 
+- 8 May 2024, **Memory Analyzer moved to Github**
+
+    The Memory Analyzer code repository has moved from the Eclipse Git servers to Github - https://github.com/eclipse-mat/mat.
+    With this move, the project also switched from using the Eclipse Bugzilla to using Github Issues on the MAT Github project.
+    We are really happy about the move, however, it might take some time to update all places pointing to the old repository at Eclipse. Please bear with us while we do the transition and give us feedback if you see places we've missed to update!
