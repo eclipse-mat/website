@@ -2,13 +2,27 @@
 title: "Previous Releases"
 seo_title: "Previous Releases"
 description: "This is an example of the Eclipse Foundation Solstice theme for Hugo."
-date: 2024-12-20T10:00:00+2:00
+date: 2025-01-10T10:00:00+2:00
 layout: "single"
 ---
 
 The **stand-alone** Memory Analyzer is based on Eclipse RCP. It is useful if you do not want to install a full-fledged IDE on the system you are running the heap analysis.
 
 To install the Memory Analyzer **into an Eclipse IDE** use the update site URL provided below. The _Memory Analyzer (Chart)_ feature is optional. The chart feature requires the [BIRT Chart Engine](/birt) (Version 2.3.0 or greater).
+
+### Memory Analyzer 1.16.0 Release
+
+- **Version:** 1.16.0.20241216 | **Date:** 20 December 2024 | **Type:** Released
+  - **Update Site:** https://download.eclipse.org/mat/1.16.0/update-site/
+  - **Archived Update Site:** [MemoryAnalyzer-1.16.0.202412161403](https://www.eclipse.org/downloads/download.php?file=/mat/1.16.0/MemoryAnalyzer-1.16.0.202412161403.zip)
+  - **Stand-alone Eclipse RCP Applications**
+    - [Windows (x86_64)](https://www.eclipse.org/downloads/download.php?file=/mat/1.16.0/rcp/MemoryAnalyzer-1.16.0.20241216-win32.win32.x86_64.zip)
+    - [Mac OSX (Mac/Cocoa/x86_64)](https://www.eclipse.org/downloads/download.php?file=/mat/1.16.0/rcp/MemoryAnalyzer-1.16.0.20241216-macosx.cocoa.x86_64.dmg)
+    - [Mac OSX (Mac/Cocoa/AArch64)](https://www.eclipse.org/downloads/download.php?file=/mat/1.16.0/rcp/MemoryAnalyzer-1.16.0.20241216-macosx.cocoa.aarch64.dmg)
+    - [Linux (x86_64/GTK+)](https://www.eclipse.org/downloads/download.php?file=/mat/1.16.0/rcp/MemoryAnalyzer-1.16.0.20241216-linux.gtk.x86_64.zip)
+    - [Linux (AArch64/GTK+)](https://www.eclipse.org/downloads/download.php?file=/mat/1.16.0/rcp/MemoryAnalyzer-1.16.0.20241216-linux.gtk.aarch64.zip)
+    - [Linux (PPC64le/GTK+)](https://www.eclipse.org/downloads/download.php?file=/mat/1.16.0/rcp/MemoryAnalyzer-1.16.0.20241216-linux.gtk.ppc64le.zip)
+  - **New and Noteworthy:** see [here](../../1.16.0/noteworthy.html)
 
 ### Memory Analyzer 1.15.0 Release
 

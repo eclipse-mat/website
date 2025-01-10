@@ -1,6 +1,6 @@
 ---
 title: "Memory Analyzer (MAT)"
-date: 2024-12-20T10:00:00+2:00
+date: 2025-01-10T10:00:00+2:00
 #headline: "The Community for Open Innovation and Collaboration"
 #tagline: "The Eclipse Foundation provides our global community of individuals and organizations with a mature, scalable, and business-friendly environment for open source software collaboration and innovation."
 hide_page_title: true
@@ -21,6 +21,11 @@ Use the Memory Analyzer to analyze productive heap dumps with hundreds of millio
 ![MAT](images/mat_thumb.png)
 
 ## News
+
+- 10 January 2025, **Memory Analyzer version 1.16.1 released**
+
+    Memory Analyzer 1.16.1 Release is now available for [download]( {{< ref "download/" >}} ).
+    This is a service release with a fix for one issue introduced with the 1.16.0 release - [Heapdump indexed on pre-1.16 fails to open on 1.16](https://github.com/eclipse-mat/mat/issues/89). We recommend using this version instead of 1.16.0 to avoid re-parsing already indexed heapdumps.
 
 - 20 December 2024, **Memory Analyzer version 1.16.0 released**
 
