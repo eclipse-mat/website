@@ -1,6 +1,6 @@
 ---
 title: "Memory Analyzer (MAT)"
-date: 2025-01-10T10:00:00+2:00
+date: 2025-01-10T10:00:00+02:00
 #headline: "The Community for Open Innovation and Collaboration"
 #tagline: "The Eclipse Foundation provides our global community of individuals and organizations with a mature, scalable, and business-friendly environment for open source software collaboration and innovation."
 hide_page_title: true

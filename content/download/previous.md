@@ -2,7 +2,7 @@
 title: "Previous Releases"
 seo_title: "Previous Releases"
 description: "This is an example of the Eclipse Foundation Solstice theme for Hugo."
-date: 2025-01-10T10:00:00+2:00
+date: 2025-01-10T10:00:00+02:00
 layout: "single"
 ---
 

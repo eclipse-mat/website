@@ -2,7 +2,7 @@
 title: "Memory Analyzer Documentation Resources"
 seo_title: "Documentation"
 description: "A collection of documentation resources about Memory Analyzer"
-date: 2024-12-18T12:00:00+2:00
+date: 2024-12-18T12:00:00+02:00
 layout: "single"
 ---
 
