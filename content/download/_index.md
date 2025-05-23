@@ -2,7 +2,7 @@
 title: "Downloads"
 seo_title: "Downloads"
 description: "Memory Analyzer Downloads"
-date: 2025-01-10T10:00:00+2:00
+date: 2025-01-10T10:00:00+02:00
 layout: "single"
 ---
 
