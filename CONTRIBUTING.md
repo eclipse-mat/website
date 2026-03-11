@@ -27,4 +27,3 @@ https://www.eclipse.org/projects/handbook/#resources-commit
 ## Contact
 
 * Developers [mailing list](https://dev.eclipse.org/mailman/listinfo/mat-dev)
-* Memory Analyzer [Forum](https://www.eclipse.org/forums/eclipse.memory-analyzer) at Eclipse
