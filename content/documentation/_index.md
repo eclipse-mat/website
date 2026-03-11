@@ -7,6 +7,6 @@ layout: "single"
 ---
 
 - [Documentation](https://help.eclipse.org/index.jsp?topic=/org.eclipse.mat.ui.help/welcome.html) - online version of the documentation available also from within the tool
-- [Learning](https://wiki.eclipse.org/MemoryAnalyzer/Learning_Material) - learn from presentations, blogs, tutorials
-- [FAQ](https://wiki.eclipse.org/MemoryAnalyzer/FAQ) - check some of the frequently asked questions
+- [Learning](https://github.com/eclipse-mat/mat/wiki/learning_material) - learn from presentations, blogs, tutorials
+- [FAQ](https://github.com/eclipse-mat/mat/wiki/faq) - check some of the frequently asked questions
 - [MAT Forums](https://www.eclipse.org/forums/eclipse.memory-analyzer) - the Eclipse Forums platform has been sunset and set to read-only. The content is still available online

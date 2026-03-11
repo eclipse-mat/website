@@ -14,4 +14,4 @@ Whether you are just interested in the MAT source code, want to extend MAT or co
 - [Developer Mailing List](https://dev.eclipse.org/mailman/listinfo/mat-dev) - subscribe to the developer list
 - [Building MAT](https://github.com/eclipse-mat/mat/blob/master/dev-doc/Building_MAT_with_Maven.md) - how to build mat locally with maven / tycho
 - [Jenkins Build](https://ci.eclipse.org/mat/) - MAT's Jenkins build at Eclipse
-- [Extending MAT](https://wiki.eclipse.org/MemoryAnalyzer/Extending_Memory_Analyzer) - check what extension possibilities MAT offers
+- [Extending MAT](https://github.com/eclipse-mat/mat/blob/master/dev-doc/Extending_Memory_Analyzer.md) - check what extension possibilities MAT offers

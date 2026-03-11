@@ -8,7 +8,7 @@ layout: "single"
 
 Looking for help or to contact the MAT Team? Use one of the following channels:
 
-- [FAQ](https://wiki.eclipse.org/index.php/MemoryAnalyzer/FAQ) - Need help? Check the MAT frequently asked questions
+- [FAQ](https://github.com/eclipse-mat/mat/wiki/faq) - Need help? Check the MAT frequently asked questions
 - [Forum](https://www.eclipse.org/forums/eclipse.memory-analyzer) - Have a question? Post it to the MAT user forum
 - [Developer Mailing List](https://dev.eclipse.org/mailman/listinfo/mat-dev) - ... or ask a technical question on our developer mailing list
 - [List of Open Github Issues](https://github.com/eclipse-mat/mat/issues?q=is%3Aopen+is%3Aissue) - review unresolved bugs and feature requests. NOTE: on 8 May 2024 the project moved to Github and at the same time switched from using Bugzilla to Github Issues on the project. All open bugzilla issues were closed and migrated to Github Issues. The archive of all closed bugs in Bugzilla can be found [here](https://bugs.eclipse.org/bugs/buglist.cgi?order=changeddate%20DESC%2Cpriority%2Cbug_severity&product=MAT&query_format=advanced)
